@@ -7,4 +7,6 @@ https://www.anaconda.com/download/#macos
 - brew uninstall python  
 - conda install **module  
 
+## Jupyer Notebooks
+https://jupyter.readthedocs.io/en/latest/install.html
 
