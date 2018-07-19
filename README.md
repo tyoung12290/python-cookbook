@@ -9,4 +9,4 @@ https://www.anaconda.com/download/#macos
 
 ## Jupyer Notebooks
 https://jupyter.readthedocs.io/en/latest/install.html
-
+- useful keyboard shortcuts: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
